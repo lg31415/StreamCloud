@@ -1,0 +1,163 @@
+﻿$axure.loadCurrentPage({
+  "url":"密码找回.html",
+  "generationDate":new Date(1454076571262.24),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6189acfb878249268b92703786796251",
+    "type":"Axure:Page",
+    "name":"密码找回",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8faa6110fb124b0b801b072a7e59abf4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"18px",
+            "location":{
+              "x":228,
+              "y":106},
+            "size":{
+              "width":96,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"28d78b4968f04ba7afffa23a3b8f9fb6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"18px",
+                "location":{
+                  "x":228,
+                  "y":106},
+                "size":{
+                  "width":96,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5290f41a624e462e9618a3e08ad7f0d9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "location":{
+              "x":228,
+              "y":160},
+            "size":{
+              "width":32,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"31316f9b610a4dea8b62e3a07b60504e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "location":{
+                  "x":228,
+                  "y":160},
+                "size":{
+                  "width":32,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/密码找回/u2.png"}},
+{
+          "id":"1c59c8394c3e45899705d8560fcbd3fe",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":163.5},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"99d8f161a92f479394709e6e1e6e0e0e",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":328,
+              "y":215},
+            "size":{
+              "width":142,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5e5ef30aa4e64625bb942754f8125fff",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":228,
+              "y":30},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8faa6110fb124b0b801b072a7e59abf4":{
+      "scriptId":"u0"},
+    "28d78b4968f04ba7afffa23a3b8f9fb6":{
+      "scriptId":"u1"},
+    "5290f41a624e462e9618a3e08ad7f0d9":{
+      "scriptId":"u2"},
+    "31316f9b610a4dea8b62e3a07b60504e":{
+      "scriptId":"u3"},
+    "1c59c8394c3e45899705d8560fcbd3fe":{
+      "scriptId":"u4"},
+    "99d8f161a92f479394709e6e1e6e0e0e":{
+      "scriptId":"u5"},
+    "5e5ef30aa4e64625bb942754f8125fff":{
+      "scriptId":"u6"}}});

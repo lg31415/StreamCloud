@@ -1,0 +1,249 @@
+﻿$axure.loadCurrentPage({
+  "url":"登录页面.html",
+  "generationDate":new Date(1454076571127.31),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"442dc18210e2424eb748218ca24a8564",
+    "type":"Axure:Page",
+    "name":"登录页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"38991d4d0f8c4074b5b2825f005d652f",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":180,
+              "y":275},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 云媒体服务平台",
+                      "target":{
+                        "targetType":"page",
+                        "url":"云媒体服务平台.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"eb42a52012ed412aaebb4c40572161ae",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":180,
+              "y":215},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"fff5278c9aa94d2abe7a94defbd2e9c7",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":180,
+              "y":160},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"cca163b69a2648679e92968796c73ade",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "location":{
+              "x":78,
+              "y":160},
+            "size":{
+              "width":82,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"285d04fe65914278aa245ea810d7ffe5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "location":{
+                  "x":78,
+                  "y":160},
+                "size":{
+                  "width":82,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bcdac5371dc242409398eb514e14233b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "location":{
+              "x":78,
+              "y":215},
+            "size":{
+              "width":82,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e96add8545a54eb186d77d9d20d09460",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "location":{
+                  "x":78,
+                  "y":215},
+                "size":{
+                  "width":82,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4963ff61c97747a69eb5fa5213fa3b32",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"15px",
+            "location":{
+              "x":300,
+              "y":280},
+            "size":{
+              "width":70,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00282c92da7743dcacfaa15b783c5395",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"15px",
+                "location":{
+                  "x":300,
+                  "y":280},
+                "size":{
+                  "width":70,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 密码找回",
+                      "target":{
+                        "targetType":"page",
+                        "url":"密码找回.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6122488c9a01424a83d5361c2fdcc4ce",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":78,
+              "y":65},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "38991d4d0f8c4074b5b2825f005d652f":{
+      "scriptId":"u0"},
+    "eb42a52012ed412aaebb4c40572161ae":{
+      "scriptId":"u1"},
+    "fff5278c9aa94d2abe7a94defbd2e9c7":{
+      "scriptId":"u2"},
+    "cca163b69a2648679e92968796c73ade":{
+      "scriptId":"u3"},
+    "285d04fe65914278aa245ea810d7ffe5":{
+      "scriptId":"u4"},
+    "bcdac5371dc242409398eb514e14233b":{
+      "scriptId":"u5"},
+    "e96add8545a54eb186d77d9d20d09460":{
+      "scriptId":"u6"},
+    "4963ff61c97747a69eb5fa5213fa3b32":{
+      "scriptId":"u7"},
+    "00282c92da7743dcacfaa15b783c5395":{
+      "scriptId":"u8"},
+    "6122488c9a01424a83d5361c2fdcc4ce":{
+      "scriptId":"u9"}}});
